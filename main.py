@@ -56,12 +56,11 @@ while True:
 	    print_yesil('--- Ders Başladı! ---')
 	    break
 	  else:
-	    print_sari('Buton Bulunamadı, yine de aranıyor..')
+	    print_yesil('--- Ders Başladı!!  ---')
+	    print_yesil('--- Butona Basıldı  ---')
 	    sleep(2)
 	    continue
 	except Exception:
 	  print_sari('Buton Bulunamadı, Hala Aranıyor...')
 	  sleep(2)
 	  continue
-	
-	
