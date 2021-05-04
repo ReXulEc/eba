@@ -1,7 +1,8 @@
 # Eba Canlı Ders Botu
 ✨Eba canlı derslerinize otomatik olarak girer
  
- Dosyayı Bilgisayarınıza İndirip Main.py Dosyasını Çalıştırmanız Yeterlidir!
+ Şifreler Klasöründe, username ,password dosyalarının içine tc kimliğinizi ve şifrenizi girin.
+ Eğer bir sıkıntı çıkarsa (rexulec#9999)
  
  # Hatalar
  1-Eğer Chromedriver sürümü ile bir sıkıntı varsa https://chromedriver.chromium.org/downloads sitesinden kendi chromeunuzun sürümüne göre indirebilirsiniz<br/>
