@@ -20,4 +20,4 @@ Kucak Dolusu Sevgiler <3
 
 [Kaxozae]: https://github.com/Kaxozae
 [5elenay]: https://github.com/5elenay
-[sunucu]: https://discord.gg/SXpu73zU
+[sunucu]: https://discord.gg/NCX3ydvTjt
